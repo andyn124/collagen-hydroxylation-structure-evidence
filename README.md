@@ -11,6 +11,4 @@ The analysis compared seven proteins from the protein data bank (PDBe). Therefor
 With Jupyter, the study used API-integrations to combine databases from PDBe and AlphaFold 2. Creating CSV-files with relevant data such as enzyme gene name and correct organism.
 
 ## Results 
-![alt text](image.png)
-
-As you can see not all proteins had experimentally proven structures, also not the full sequence coverage was determined. AlphaFold 2 predictions where stable in a mean pLDDT of 96. By this small study, we see that AlphaFold 2 can be a great tool for determing structures. Given that experimentally determined structures is accepted to have a mean pLDDT of atleast 90. In this case, AlphaFold 2 surpasses that comfortably. 
+Not all proteins had experimentally proven structures, also not the full sequence coverage was determined. AlphaFold 2 predictions where stable in a mean pLDDT of about 90. By this small study, we see that AlphaFold 2 can be a great tool for determining structures. Given that experimentally determined structures is accepted to have a mean pLDDT of atleast 90. In this case, AlphaFold 2 surpasses that limit. 
