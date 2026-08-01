@@ -1,0 +1,7 @@
+uniprot_id,rhea_id,relationship_type,annotation_basis,source_url,retrieved_at
+P13674,RHEA:18945,catalytic,publication-supported,https://www.uniprot.org/uniprotkb/P13674/entry,2026-07-28T10:40
+O15460,RHEA:18945,catalytic,publication-supported,https://www.uniprot.org/uniprotkb/O15460/entry,2026-07-28T10:40
+Q7Z4N8,RHEA:18945,catalytic,publication-supported,https://www.uniprot.org/uniprotkb/Q7Z4N8/entry,2026-07-28T10:40
+Q02809,RHEA:16569,catalytic,publication-supported,https://www.uniprot.org/uniprotkb/Q02809/entry,2026-07-28T10:40
+O00469,RHEA:16569,catalytic,by similarity,https://www.uniprot.org/uniprotkb/O00469/entry,2026-07-28T10:40
+O60568,RHEA:16569,catalytic,publication-supported,https://www.uniprot.org/uniprotkb/O60568/entry,2026-07-28T10:40

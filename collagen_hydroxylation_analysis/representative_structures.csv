@@ -1,0 +1,8 @@
+uniprot_id,gene_symbol,pdb_id,chain_id,experimental_method,resolution,coverage_percent,selection_status
+P13674,P4HA1,4btb,A,X-ray diffraction,1.899,46.0,Representative experimental structure selected
+O15460,P4HA2,7zsc,A,X-ray diffraction,3.85,49.4,Representative experimental structure selected
+Q7Z4N8,P4HA3,,,,,,No exact experimental mapping
+P07237,P4HB,6i7s,A,X-ray diffraction,2.5,100.0,Representative experimental structure selected
+Q02809,PLOD1,,,,,,No exact experimental mapping
+O00469,PLOD2,,,,,,No exact experimental mapping
+O60568,PLOD3,6fxm,A,X-ray diffraction,2.1,100.0,Representative experimental structure selected

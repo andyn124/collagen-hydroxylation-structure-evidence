@@ -1,0 +1,3 @@
+rhea_id,ec_number,reaction_name,main_substrate,cosubstrates,main_product,byproducts,required_cofactors,evidence_label,source_url,retrieved_at
+RHEA:18945,1.14.11.2,Collagen proline hydroxylation,L-prolyl-[collagen],2-oxoglutarate; O2,trans-4-hydroxy-L-prolyl-[collagen],succinate; CO2,Fe2+; L-ascorbate,curated database,https://www.rhea-db.org/rhea/18945,2026-07-28
+RHEA:16569,1.14.11.4,Collagen lysine 5-hydroxylation,L-lysyl-[collagen],2-oxoglutarate; O2,(5R)-5-hydroxy-L-lysyl-[collagen],succinate; CO2,Fe2+; L-ascorbate,curated database,https://www.rhea-db.org/rhea/16569,2026-07-28
